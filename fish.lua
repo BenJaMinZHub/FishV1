@@ -46,4 +46,3 @@ player.PlayerGui.HUD.DescendantAdded:Connect(function(v)
         end
     end
 end)
-
